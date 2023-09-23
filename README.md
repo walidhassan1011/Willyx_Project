@@ -17,16 +17,12 @@
         </a>
     </li>
     <li>
-        <a href="
-        https://pypi.org/project/PyQt5/
-        ">
+        <a href="https://pypi.org/project/PyQt5/">
             PyQt5
         </a>
     </li>
     <li>
-        <a href="
-        https://opencv.org/
-        ">
+        <a href="https://opencv.org/">
             opencv-python
         </a>
     </li>
@@ -82,7 +78,5 @@ Note: to close the webcam window, you need to PRESS 'ESC' key.
 </h1>
 
 <p>
-    This project is licensed under the MIT License - see the <a href="
-    https://github.com/walidhassan1011/Willyx_Project/blob/main/LICENSE
-    " target="_blank">LICENSE</a> file for details
+    This project is licensed under the MIT License - see the <a href="https://github.com/walidhassan1011/Willyx_Project/blob/main/LICENSE" target="_blank">LICENSE</a> file for details
 </p>
