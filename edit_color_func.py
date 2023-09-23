@@ -11,7 +11,7 @@ def editColorSpace(typeOfMask):
     def nothing(x):
         pass
     # start streaming
-    cap = cv.VideoCapture('Video.mp4')
+    cap = cv.VideoCapture(0)
     # create 2 new windows
     cv.namedWindow('image')
     cv.namedWindow('mask')
