@@ -76,3 +76,13 @@ Note: to close the webcam window, you need to PRESS 'ESC' key.
 </ul>
 
 <hr/>
+
+<h1>
+    License
+</h1>
+
+<p>
+    This project is licensed under the MIT License - see the <a href="
+    https://github.com/walidhassan1011/Willyx_Project/blob/main/LICENSE
+    " target="_blank">LICENSE</a> file for details
+</p>
